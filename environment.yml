@@ -1,0 +1,6 @@
+name: py3.8
+channels:
+  - bioconda
+  - r
+  - defaults
+prefix: /Users/dmcdaniel/opt/miniconda3/envs/py3.8
